@@ -1,0 +1,1 @@
+var json_COLAPSOS_4 = {"type":"FeatureCollection","name":"COLAPSOS_4","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"Name":"COLAPSO","descriptio":"Colapso"},"geometry":{"type":"Point","coordinates":[-99.012786255669241,19.58251006546071]}}]}
